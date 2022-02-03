@@ -4010,7 +4010,7 @@ https://live.rockfm.ro/rockfm.aacp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dN5By0n.png" group-title="Papelera", -Papelera-
 https://i.imgur.com/KuqaZul.mp4
 
-
+#EXTINF:-1 tvg-logo="http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=118&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLT9RmC.png" group-title="Cine y Series",Zee Mundo Bollywood | HD | India
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/393461537
@@ -4105,6 +4105,7 @@ disney,DISNEY CHANNEL,http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=113&p=
 boomerang,BOOMERANG,http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8
 baby-tv,BABY TV,http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8
 nick-jr,NICK JR,http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=117&p=3&k=srregio&f=.m3u8
+
 DisneyJunior.uk,DISNEY JR,http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=118&p=3&k=srregio&f=.m3u8
 Nicktoons.uk,NICKTOONS SD,http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=1708&p=3&k=srregio&f=.m3u8
 BABYFIRST.sp,BABY FIRST,http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=1984&p=3&k=srregio&f=.m3u8
