@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2bZtPA.png" group-title="Leeme",- Última Actualización - 03/02/2022 -
 https://stmv.panel.mivideo.pro/demo/demo/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=118&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYPzo28.png" group-title="Chile", -Chile-
 https://i.imgur.com/EwJbXKm.mp4
