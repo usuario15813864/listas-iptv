@@ -4038,10 +4038,9 @@ https://tls-cl.cdnz.cl/xtv/live/playlist.m3u8
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFDhzBy.png" group-title="Juveniles", Locomotion | SD | Rep. Dominicana 
-http://51.222.85.85:81/hls/loco/index.m3u8
-group,Channels
+http://51.222.85.85:81/hls/loco/index
 
-group,Lista TV
+
 ext,ENERGEEK,https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
 ext,EL CHAVO TV,https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 ext,DREIKO TV,http://regioplay.xyz/php/SR_REGIO_511022_/dreiko.php?f=.m3u8
